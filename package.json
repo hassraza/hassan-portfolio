@@ -1,5 +1,5 @@
 {
-  "name": "maryam-portfolio",
+  "name": "hassan-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.10",
+    "tailwindcss": "^4.2.4"
   }
 }
