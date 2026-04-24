@@ -1,70 +1,209 @@
-# Getting Started with Create React App
+# 👋 Muhammad Hassan Raza - Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A professional, modern portfolio website showcasing projects, skills, and experience as a Computer Science student and Full-Stack Developer. Built with React and featuring a clean, minimalist design optimized for technical recruiters.
 
-## Available Scripts
+## 🌐 Live Demo
 
-In the project directory, you can run:
+**[View Portfolio](https://yourportfoliourl.com)** *(Update with your deployed link)*
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Responsive Design**: Fully optimized for desktop, tablet, and mobile devices
+- **Minimalist & Professional**: Clean, modern UI with excellent readability
+- **Multi-Section Layout**:
+  - Hero section with quick stats
+  - About me with professional summary
+  - Comprehensive education timeline (Matric, FSc, Bachelor's)
+  - Technical skills categorized by domain
+  - Featured projects with filtering by category
+  - Professional experience timeline
+  - Achievements and recognitions
+  - Contact information with multiple channels
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Smooth Navigation**: Sticky navbar with smooth scroll navigation
+- **Interactive Elements**: Hover effects and smooth transitions
+- **Project Filtering**: Filter projects by category (Web, AI, ML, Algorithms, Database, OOP, etc.)
+- **SEO Optimized**: Semantic HTML and meta tags
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend**: React 18
+- **Styling**: CSS3 with custom variables and animations
+- **Build Tool**: Create React App
+- **Deployment Ready**: Optimized for production builds
 
-### `npm run build`
+## 📋 Project Highlights
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **N-Queens Visualization System** - C++, raylib
+2. **Student Attendance Management System** - SQL, DBMS
+3. **Learning Management System (LMS)** - C++ OOP
+4. **Airport Management System** - C++
+5. **Portfolio Website** - React, CSS
+6. **Todo List Application** - JavaScript/React
+7. **CRUD Operations System** - Node.js, Express, MongoDB
+8. **Django Web Application** - Django, Python
+9. **Mood-Based Music Recommender** - React, Node.js, Gemini API, Spotify API
+10. **Ludo Board UI** - HTML, CSS
+11. **Titanic Survival Prediction** - Python, Pandas, Scikit-learn
+12. **Stock Price Prediction System** - Python, LSTM
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🎓 Education
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Bachelor's in Computer Science** | Bahria University | CGPA: 3.43/4.0
+- **FSc Pre-Medical** | Linz College | 91% | Head Boy
+- **Matric Science** | Al Abbas School and College | 95% | 16th Position in Board
 
-### `npm run eject`
+## 💼 Professional Experience
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Intern** at Arch Technologies (Current)
+  - Working on real-world software development tasks
+  - Collaborating with teams on technical solutions
+  - Gaining hands-on experience in modern development workflows
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Event Manager** at InsaafDar (2024)
+  - Managed events and coordination activities
+  - Demonstrated leadership and organizational skills
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 Skills
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Development**: React.js, Node.js, Express.js, Django, JavaScript (ES6+), C++, Python
 
-## Learn More
+**Data Science & AI**: Scikit-learn, Pandas, LLM Integration (Gemini API), Time Series Prediction (LSTM)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Core Concepts**: Data Structures & Algorithms, OOP, DBMS, Operating Systems
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Tools & Technologies**: Git & GitHub, VS Code, Vite, raylib
 
-### Code Splitting
+## 🏆 Achievements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- 🎓 CGPA 3.43 - Top-performing student
+- 🥇 IEEE Student Member - Bahria University
+- ❤️ Community Service - Ramzan Hadia Aftar Drive
+- 🤖 AI Development - Experience in AI-based applications
 
-### Analyzing the Bundle Size
+## 📱 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **Email**: [razamh555@gmail.com](mailto:razamh555@gmail.com)
+- **LinkedIn**: [linkedin.com/in/mhasanraza](https://www.linkedin.com/in/mhasanraza)
+- **GitHub**: [github.com/hassraza](https://github.com/hassraza)
 
-### Making a Progressive Web App
+## 🚀 Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
 
-### Advanced Configuration
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. **Clone the repository**
+```bash
+git clone https://github.com/hassraza/hassan-portfolio.git
+cd hassan-portfolio
+```
 
-### Deployment
+2. **Install dependencies**
+```bash
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+3. **Start the development server**
+```bash
+npm start
+```
 
-### `npm run build` fails to minify
+Open [http://localhost:3000](http://localhost:3000) to view in your browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Build for Production
+
+```bash
+npm run build
+```
+
+## 📁 Project Structure
+
+```
+hassan-portfolio/
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+│   └── robots.txt
+├── src/
+│   ├── App.js          # Main portfolio component
+│   ├── App.css         # Styling
+│   ├── index.js        # React entry point
+│   └── ...
+├── package.json        # Dependencies
+└── README.md
+```
+
+## 🎨 Design Philosophy
+
+- **Minimalist & Modern**: Clean, professional aesthetic optimized for technical roles
+- **Accessibility First**: Semantic HTML and keyboard navigation
+- **Performance Optimized**: Fast load times and smooth interactions
+- **Mobile-First**: Responsive design for all devices
+
+## 📝 Customization
+
+### Update Personal Information
+Edit data objects in `src/App.js`:
+- `education` - Modify education entries
+- `experiences` - Update work experience
+- `skills` - Change skill categories
+- `allProjects` - Add your projects
+- `achievements` - Add achievements
+
+### Customize Styling
+Modify `src/App.css`:
+- CSS variables for easy theme customization
+- Responsive breakpoints for mobile
+- Animation effects
+
+## 🚀 Deployment
+
+### Vercel (Recommended)
+```bash
+npm install -g vercel
+vercel
+```
+
+### Netlify
+1. Run `npm run build`
+2. Connect GitHub repository to Netlify
+3. Set build command: `npm run build`
+4. Set publish directory: `build`
+
+### GitHub Pages
+Add to `package.json`:
+```json
+"homepage": "https://yourusername.github.io/hassan-portfolio"
+```
+
+Then run:
+```bash
+npm run build
+npm install gh-pages --save-dev
+npm run deploy
+```
+
+## 📊 Stats
+
+- ✅ 12+ projects showcased
+- 📚 Comprehensive education timeline
+- 🎯 7+ skill categories
+- 🚀 Production-ready code
+- 📱 100% responsive design
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+## 👨‍💻 Author
+
+**Muhammad Hassan Raza**
+- Computer Science Student | Full-Stack Developer | AI Enthusiast
+- Bahria University, Islamabad
+
+---
+
+*Made with ❤️ by Muhammad Hassan Raza | April 2026*
